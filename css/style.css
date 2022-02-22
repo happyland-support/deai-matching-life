@@ -349,6 +349,34 @@ header li a i {
   padding: 0;
 }
 
+/* under-menu */
+
+.under-menu {
+  width: 90%;
+  padding: 0 8px;
+  margin: 24px auto;
+}
+
+.under-menu h1 {
+  background: #f89174;
+  font-size: 14px;
+  color: #fff;
+  padding: 8px;
+}
+
+.under-menu ul {
+  border: 1px solid #f89174;
+  padding: 12px;
+}
+
+.under-menu li {
+  font-size: 14px;
+}
+
+.under-menu li + li {
+  margin-top: 8px;
+}
+
 /* footer */
 
 footer {
